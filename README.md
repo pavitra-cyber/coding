@@ -1,4 +1,4 @@
 # coding
 this is my first repository
 <br>
-Author - pavitra kambire
+Author -shraddha khapara(apana college)
